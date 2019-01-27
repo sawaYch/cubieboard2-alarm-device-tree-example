@@ -36,7 +36,7 @@ Bootloader does matter, _mainline u-boot_ will be used for mainline kernel. Goog
 
 ## Tools
 
-- Install Device Tree Compile (dtc) on Cubieboard2
+- Install Device Tree Compiler (dtc) on Cubieboard2
 
   ```bash
   sudo pacman -S dtc
